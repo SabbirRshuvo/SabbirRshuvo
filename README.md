@@ -6,9 +6,10 @@ I'm a dedicated software developer with a passion for creating efficient, scalab
 
 ## About Me
 
--  I’m currently working on Real Time Chat  
--  I’m learning TypeScript and Next.js  
--  I’m looking to collaborate on open source projects  
+-  I'm currently building full-stack and frontend projects using React, Tailwind, Firebase, Context API, Node.js, Express,MongoDB, Stripe.   
+-  I’m learning advanced concepts in React ecosystem, JWT authentication, and MongoDB Integration.
+-  I’m open to collaborating on web development projects that help me grow and support others.
+-   Ask me about: JavaScript, React, Firebase, Context API, Express, MongoDB
 -  How to reach me: [sabbirhshuvo11@gmail.com]  
 
 ---
