@@ -16,10 +16,10 @@ I'm a dedicated software developer with a passion for creating efficient, scalab
 
 ## Skills & Tools
 
-- **Languages:** JavaScript,  
-- **Frameworks & Libraries:** React, Node.js, Express  
-- **Tools & Platforms:** Git, GitHub, VS Code, Firebase
-- **Databases:** MongoDB
+- **Frontend:** JavaScript, React, Tailwind, Context API, TanStack Query 
+- **Backend:** Node.js, Express.js, MongoDB, REST API, JWT, Cookie-Parser 
+- **Tools & Platforms:** Git, GitHub, VS Code, Firebase, Vercel, Postman, Stripe, ImgBB,
+- **Soft Skills:** Teamwork, Fast Learner.
 
 
 ---
