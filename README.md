@@ -1,5 +1,11 @@
 # Hello, I'm [SabbirRshuvo] 
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=1F9AFE&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;MERN+Stack+Learner;Always+Building+Something" alt="Typing SVG" />
+</p>
+
 I'm a dedicated software developer with a passion for creating efficient, scalable, and maintainable applications. I enjoy working with modern technologies and continuously improving my skills.
 
 ---
@@ -27,9 +33,7 @@ I'm a dedicated software developer with a passion for creating efficient, scalab
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirRshuvo&layout=compact&theme=radical)
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=1F9AFE&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;MERN+Stack+Learner;Always+Building+Something" alt="Typing SVG" />
-</p>
+
 
 ---
 
