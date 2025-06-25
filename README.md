@@ -12,7 +12,7 @@ I'm a dedicated software developer with a passion for creating efficient, scalab
 
 ## About Me
 
--  I'm currently building full-stack and frontend projects using React, Tailwind, Firebase, Context API, Node.js, Express,MongoDB, Stripe.   
+-  I'm currently building full-stack and frontend projects using React, Tailwind, Firebase, Context API, Node.js, Express, MongoDB, and Stripe.   
 -  I’m learning advanced concepts in the React ecosystem, JWT authentication, and MongoDB Integration.
 -  I’m open to collaborating on web development projects that help me grow and support others.
 -   Ask me about: JavaScript, React, Firebase, Context API, Express, MongoDB
@@ -33,7 +33,10 @@ I'm a dedicated software developer with a passion for creating efficient, scalab
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirRshuvo&layout=compact&theme=radical)
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momin096&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momin096&theme=radical" width="48%" />
+</p>
 
 ---
 
