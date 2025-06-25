@@ -26,6 +26,10 @@ I'm a dedicated software developer with a passion for creating efficient, scalab
 ![Sabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabbirRshuvo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirRshuvo&layout=compact&theme=radical)
 
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=1F9AFE&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;MERN+Stack+Learner;Always+Building+Something" alt="Typing SVG" />
+</p>
 
 ---
 
